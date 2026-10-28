@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="styleshhet.css">
+</head>
+<body>
+    <div class="container" >
+        <div class="from-box active" id="login-form">
+            <from action="">
+                <input type="email" name="email" placeholder="student.cs21@bmsce.ac.in" required>
+                <input type="password" name="password" placeholder="password" required>
+                <button type="submit" name="login">Login</button>
+                <p>Don't have an account?<a href="#" onclick="showForm('Register-form')">Register</a></p>
+
+            </from>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="from-box" id="Register-form">
+            <from action="">
+                <input type="Name" name="name" placeholder="Suresh.P" required>
+                <input type="email" name="email" placeholder="student.cs21@bmsce.ac.in" required>
+                <input type="password" name="password" placeholder="password" required>
+                <button type="submit" name="login">Login</button>
+                <select name="role" required>
+                    <option value="">--Select Role--</option>
+                    <option value="user">User</option>
+                    <option value="admin">admin</option>
+                </select>
+                <p>Already have an account? <a href="#" onclick="showForm('login-form')">Login</a></p>
+                
+            </from>
+        </div>
+    </div>
+
+    <script src="switch.js"></script>
+</body>
+</html>
