@@ -117,8 +117,8 @@ Suggestions and issues are welcome. Feel free to open an issue or submit a pull 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: Chetansai222
+
 
 ---
 
