@@ -41,16 +41,6 @@ The app is built for two types of users:
 
 ---
 
-## 🖼️ Design Preview
-
-The planned student dashboard:
-
-![PlaceTrack dashboard design](screenshots/dashboard-design.png)
-
-> Add your screenshot at `screenshots/dashboard-design.png`. You can also add a screenshot of the login page here.
-
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5**: page structure
